@@ -1,0 +1,5 @@
+{
+  "name": "PatentViz AI",
+  "description": "Upload patent PDFs to instantly generate product visualization prototypes and interactive claim structure infographics using Gemini AI.",
+  "requestFramePermissions": []
+}
